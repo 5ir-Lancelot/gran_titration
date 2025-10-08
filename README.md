@@ -47,7 +47,7 @@ G = (V_\\mathrm{acid}+V_0) \times 10^{-\mathrm{pH}}
 $$
 
 Plotting $G$ versus $V_\mathrm{acid}$ (volume of acid added) produces a straight line near the equivalence point.  
-Extrapolating this line to where \( G = 0 \) gives the **equivalence volume (Vₑ)** — the point where all alkalinity has been neutralized.
+Extrapolating this line to where  $G = 0 $ gives the **equivalence volume (Vₑ)** — the point where all alkalinity has been neutralized.
 The $V_0$ is the initial sample volume.
 
 ---
@@ -65,7 +65,7 @@ The $V_0$ is the initial sample volume.
    - Continue the titration until pH ≈ 3.5.
 
 3. **Data analysis:**
-   - Calculate \( G = V \times 10^{-\mathrm{pH}} \) for each data point.
+   - Calculate $G = (V_\\mathrm{acid}+V_0) \times 10^{-\mathrm{pH}}$ for each data point.
    - Plot \( G \) versus \( V \).
    - Fit a straight line to the data points before the equivalence point.
    - Extrapolate the line to \( G = 0 \); this gives \( V_e \).
@@ -73,7 +73,7 @@ The $V_0$ is the initial sample volume.
 4. **Calculate alkalinity:**
 
    $$
-   \\text{Alkalinity (eq/L)} = \\frac{C_\mathrm{acid} \times V_e}{V_\mathrm{sample}}
+   \text{Alkalinity (eq/L)} = \\frac{C_\mathrm{acid} \times V_e}{V_\mathrm{sample}}
    $$
 
    where:
