@@ -43,7 +43,7 @@ The **Gran plot** transforms pH titration data into a **linear function** that a
 For a strong acid titrating a bicarbonate/carbonate solution, the **Gran function (G)** is defined as:
 
 $$
-G = V_\\mathrm{acid}+V<sub>0</sub> \times 10^{-\mathrm{pH}}
+G = (V_\\mathrm{acid}+V_0) \times 10^{-\mathrm{pH}}
 $$
 
 Plotting \( G \) versus \( V_\mathrm{acid} \) (volume of acid added) produces a straight line near the equivalence point.  
