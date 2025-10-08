@@ -28,6 +28,9 @@ When an **acid** (usually HCl) is added to an **alkaline solution** (containing 
 
   <p align="center">  H<sup>+</sup> + HCO<sub>3</sub><sup>−</sup> ⇌ CO<sub>2</sub>(aq) + H<sub>2</sub>O</p>
 
+4**Conversion of any conjugate base to their acid form:**
+
+   <p align="center">  H<sup>+</sup> + R<sup>-</sup> ⇌ RH</p>
 
 These reactions consume acid until the equivalence point(s) are reached.
 
