@@ -78,9 +78,9 @@ The $V_{sample}$ is the initial sample volume.
    $$
 
    where:
-   - \( C_\mathrm{acid} \) = concentration of acid (mol/L)  
-   - \( V_e \) = equivalence volume (L)  
-   - \( V_\mathrm{sample} \) = sample volume (L)
+   - $C_\mathrm{acid}$ = concentration of acid (mol/L)  
+   - $V_e$ = equivalence volume (L)  
+   - $V_\mathrm{sample}$ = sample volume (L)
 
 ---
 
