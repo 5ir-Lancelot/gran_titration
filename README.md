@@ -73,9 +73,9 @@ The $V_{sample}$ is the initial sample volume.
 4. **Calculate alkalinity:**
    
    
-   $
-   \text{Alkalinity (eq/L)} = \\frac{C_\mathrm{acid} \times V_e}{V_\mathrm{sample}}
-   $
+   $$
+   \\text{Alkalinity (eq/L)} = \\frac{C_\mathrm{acid} \times V_e}{V_\mathrm{sample}}
+   $$
 
    where:
    - $C_\mathrm{acid}$ = concentration of acid (mol/L)  
