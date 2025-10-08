@@ -12,19 +12,19 @@ When an **acid** (usually HCl) is added to an **alkaline solution** (containing 
 1. **Neutralization of hydroxide:**
 
    $$
-   \\mathrm{OH^- + H^+ \rightarrow H_2O}
+   \mathrm{OH^- + H^+ \rightarrow H_2O}
    $$
 
 2. **Conversion of carbonate to bicarbonate:**
 
    $$
-   \\mathrm{CO_3^{2-} + H^+ \rightarrow HCO_3^-}
+   \mathrm{CO_3^{2-} + H^+ \rightarrow HCO_3^-}
    $$
 
 3. **Conversion of bicarbonate to carbonic acid:**
 
    $$
-   \\mathrm{HCO_3^- + H^+ \rightarrow H_2CO_3 \leftrightharpoons CO_2(aq) + H_2O}
+   \mathrm{HCO_3^- + H^+ \rightarrow H_2CO_3 \leftrightharpoons CO_2(aq) + H_2O}
    $$
 
 These reactions consume acid until the equivalence point(s) are reached.
