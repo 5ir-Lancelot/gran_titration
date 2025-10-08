@@ -21,7 +21,7 @@ When an **acid** (usually HCl) is added to an **alkaline solution** (containing 
 2. **Conversion of carbonate to bicarbonate:**
 
    
-   <p align="center">CO<sub>3</sub><sup>+</sup> + H⁺ ⇌  + HCO₃⁻</p>
+   <p align="center">CO<sub>3</sub><sup>2-</sup> + H<sup>+</sup>  ⇌  + HCO₃⁻</p>
 
 
 3. **Conversion of bicarbonate to carbonic acid:**
