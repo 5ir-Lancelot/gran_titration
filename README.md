@@ -12,7 +12,7 @@ When an **acid** (usually HCl) is added to an **alkaline solution** (containing 
 1. **Neutralization of hydroxide:**
 
    $$
-   \mathrm{OH^- + H^+ \rightarrow H_2O}
+   \\mathrm{OH^- + H^+ \rightarrow H_2O}
    $$
 
 2. **Conversion of carbonate to bicarbonate:**
