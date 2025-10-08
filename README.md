@@ -65,7 +65,7 @@ The $V_{sample}$ is the initial sample volume.
    - Calculate $G = (V_\\mathrm{acid}+V_0) \times 10^{-\mathrm{pH}}$ for each data point.
    - Plot \( G \) versus \( V \).
    - Fit a straight line to the data points before the equivalence point.
-   - Forst method: Don't just fit the line (take the G,V pairs at predefined pH values [4.5, 4.3, 4.0, 3.7]). With these 4 points calculate linear rgeression.
+   - Forstliche Analytik method (Koenig, 2005): Don't just fit the line (take the G,V pairs at predefined pH values [4.5, 4.3, 4.0, 3.7]). With these 4 points calculate linear rgeression.
    - Extrapolate the line to \( G = 0 \); this gives \( V_e \).
 
 4. **Calculate alkalinity:**
@@ -83,3 +83,8 @@ The $V_{sample}$ is the initial sample volume.
 ---
 
 ## **Advantages of Gran Titration**
+
+
+## References
+
+Koenig, N., 2005. Handbuch Forstliche Analytik - eine Loseblatt-Sammlung der Analysemethoden im Forstbereich.
