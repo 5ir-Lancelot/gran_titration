@@ -43,11 +43,12 @@ The **Gran plot** transforms pH titration data into a **linear function** that a
 For a strong acid titrating a bicarbonate/carbonate solution, the **Gran function (G)** is defined as:
 
 $$
-G = V_\\mathrm{acid} \times 10^{-\mathrm{pH}}
+G = V_\\mathrm{acid}+V<sub>0</sub> \times 10^{-\mathrm{pH}}
 $$
 
 Plotting \( G \) versus \( V_\mathrm{acid} \) (volume of acid added) produces a straight line near the equivalence point.  
 Extrapolating this line to where \( G = 0 \) gives the **equivalence volume (Vₑ)** — the point where all alkalinity has been neutralized.
+The $V_0$ is the initial sample volume.
 
 ---
 
