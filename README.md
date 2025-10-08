@@ -65,6 +65,7 @@ The $V_{sample}$ is the initial sample volume.
    - Calculate $G = (V_\\mathrm{acid}+V_0) \times 10^{-\mathrm{pH}}$ for each data point.
    - Plot \( G \) versus \( V \).
    - Fit a straight line to the data points before the equivalence point.
+   - Forst method: Dont fit the line (take the G,V pairs at predefined pH values [4.5, 4.3, 4.0, 3.7])
    - Extrapolate the line to \( G = 0 \); this gives \( V_e \).
 
 4. **Calculate alkalinity:**
