@@ -18,13 +18,13 @@ When an **acid** (usually HCl) is added to an **alkaline solution** (containing 
 2. **Conversion of carbonate to bicarbonate:**
 
    $$
-   \mathrm{CO_3^{2-} + H^+ \rightarrow HCO_3^-}
+   \\mathrm{CO_3^{2-} + H^+ \rightarrow HCO_3^-}
    $$
 
 3. **Conversion of bicarbonate to carbonic acid:**
 
    $$
-   \mathrm{HCO_3^- + H^+ \rightarrow H_2CO_3 \leftrightharpoons CO_2(aq) + H_2O}
+   \\mathrm{HCO_3^- + H^+ \rightarrow H_2CO_3 \leftrightharpoons CO_2(aq) + H_2O}
    $$
 
 These reactions consume acid until the equivalence point(s) are reached.
@@ -67,7 +67,7 @@ Extrapolating this line to where \( G = 0 \) gives the **equivalence volume (Vâ‚
 4. **Calculate alkalinity:**
 
    $$
-   \text{Alkalinity (eq/L)} = \frac{C_\mathrm{acid} \times V_e}{V_\mathrm{sample}}
+   \\text{Alkalinity (eq/L)} = \\frac{C_\mathrm{acid} \times V_e}{V_\mathrm{sample}}
    $$
 
    where:
