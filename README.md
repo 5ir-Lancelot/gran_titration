@@ -14,16 +14,15 @@ The **Gran titration** is a precise method to determine the **alkalinity** of an
 When an **acid** (usually HCl) is added to an **alkaline solution** (containing bicarbonate, carbonate, and hydroxide ions), the following reactions occur sequentially:
 
 1. **Neutralization of hydroxide:**
+   
+   <p align="center">OH⁻ + H⁺ → H₂O</p>
 
-   $$
-   \mathrm{OH^- + H^+ \rightarrow H_2O}
-   $$
 
 2. **Conversion of carbonate to bicarbonate:**
 
-   $$
-   \mathrm{CO_3^{2-} + H^+ \rightarrow HCO_3^-}
-   $$
+   
+   CO₃²⁻ + H⁺ → HCO₃⁻
+
 
 3. **Conversion of bicarbonate to carbonic acid:**
 
