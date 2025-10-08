@@ -21,14 +21,13 @@ When an **acid** (usually HCl) is added to an **alkaline solution** (containing 
 2. **Conversion of carbonate to bicarbonate:**
 
    
-   CO₃²⁻ + H⁺ → HCO₃⁻
+   <p align="center">CO<sub>3</sub><sup>+</sup> ⇌ H⁺ + HCO₃⁻</p>
 
 
 3. **Conversion of bicarbonate to carbonic acid:**
 
-   $$
-   \mathrm{HCO_3^- + H^+ \rightarrow H_2CO_3 \leftrightharpoons CO_2(aq) + H_2O}
-   $$
+  <p align="center">  H<sup>+</sup> + HCO<sub>3</sub><sup>−</sup> ⇌ CO<sub>2</sub>(aq) + H<sub>2</sub>O</p>
+
 
 These reactions consume acid until the equivalence point(s) are reached.
 
