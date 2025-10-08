@@ -83,7 +83,7 @@ The $V_{sample}$ is the initial sample volume.
 ---
 
 ## **Advantages of Gran Titration**
-
+More precise than single endpoint titration. 
 
 ## References
 
