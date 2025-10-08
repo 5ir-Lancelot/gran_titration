@@ -46,7 +46,7 @@ $$
 G = (V_\\mathrm{acid}+V_0) \times 10^{-\mathrm{pH}}
 $$
 
-Plotting \( G \) versus \( V_\mathrm{acid} \) (volume of acid added) produces a straight line near the equivalence point.  
+Plotting $G$ versus $V_\mathrm{acid}$ (volume of acid added) produces a straight line near the equivalence point.  
 Extrapolating this line to where \( G = 0 \) gives the **equivalence volume (Vₑ)** — the point where all alkalinity has been neutralized.
 The $V_0$ is the initial sample volume.
 
